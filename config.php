@@ -10,10 +10,8 @@ ini_set('display_startup_errors', 1);
 
 define ('DS', DIRECTORY_SEPARATOR); // разделитель для путей к файлам
 
-//define ('SITE_PATH', 'http://192.168.1.22/books');
-//define ('SITE_PATH', 'http://192.168.207.47/monitor'); // путь к корневой папке сайта
-define ('SITE_PATH', 'http://localhost/bot');
-//define ('SITE_PATH', 'http://192.168.205.41/books');
+
+define ('SITE_PATH', https://astimated.github.io/tg_bot');
 define ('debug_mode', false); # выводить сообщения дебага
 
 # Настройки для подключения к бд
